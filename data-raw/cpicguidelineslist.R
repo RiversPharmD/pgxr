@@ -1,2 +1,3 @@
 CPICGuidelines <- CPICGuidelinesRaw %>%
-  distinct()
+  distinct() %>%
+  rename(gene = GENES)
