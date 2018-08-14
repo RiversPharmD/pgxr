@@ -1,8 +1,8 @@
 Package: pgxr
 Version: 0.0.0.9000
-Title: What the Package Does (One Line, Title Case)
+Title: Creates a Pipeline for PGx Panel Analysis in R
 Description: What the package does (one paragraph).
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
+Authors@R: person("Zach", "Rivers", email = "river317@umn.edu", role = c("aut", "cre"))
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
