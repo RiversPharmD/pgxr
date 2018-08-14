@@ -14,36 +14,14 @@ knitr::opts_chunk$set(
 ```
 # pgxr
 
-The goal of pgxr is to ...
+The goal of `pgxr` is to provide tools to create a pipeline for pharmacogenomic
+panel analysis in r. It currently is based off of published guidelines available
+at [CPIC](https://cpicpgx.org/guidelines/). Future work will include PharmGKB
+information, as well as other guidelines.
 
 ## Installation
 
-You can install the released version of pgxr from [CRAN](https://CRAN.R-project.org) with:
+This is not currently released on CRAN, and is in development on github.
 
-``` r
-install.packages("pgxr")
-```
 
-## Example
 
-This is a basic example which shows you how to solve a common problem:
-
-```{r example}
-## basic example code
-```
-
-What is special about using `README.Rmd` instead of just `README.md`? You can include R chunks like so:
-
-```{r cars}
-summary(cars)
-```
-
-You'll still need to render `README.Rmd` regularly, to keep `README.md` up-to-date.
-
-You can also embed plots, for example:
-
-```{r pressure, echo = FALSE}
-plot(pressure)
-```
-
-In that case, don't forget to commit and push the resulting figure files, so they display on GitHub!
