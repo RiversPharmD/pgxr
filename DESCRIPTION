@@ -1,10 +1,10 @@
 Package: pgxr
 Version: 0.0.0.9000
 Title: Creates a Pipeline for PGx Panel Analysis in R
-Description: The goal of `pgxr` is to provide tools to create a pipeline for pharmacogenomic
-    panel analysis in r. It currently is based off of published guidelines available
-    at [CPIC](https://cpicpgx.org/guidelines/). Future work will include PharmGKB
-    information, as well as other guidelines.
+Description: The goal of `pgxr` is to provide tools to create a pipeline for 
+    pharmacogenomic panel analysis in r. It currently is based off of published 
+    guidelines available at [CPIC](https://cpicpgx.org/guidelines/). Future work
+    will include PharmGKB information, as well as other guidelines.
 Authors@R: person("Zach", "Rivers", email = "river317@umn.edu", role = c("aut", "cre"))
 License: MIT + file LICENSE
 Encoding: UTF-8
